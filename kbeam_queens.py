@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb 10 14:18:49 2018
-CISC 6525 HW2 Q2
 8-queens local beam search
 @author: Yufeng Zhou
 """
